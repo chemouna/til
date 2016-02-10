@@ -17,6 +17,9 @@ _1 TILs and counting..._
 * [Git](#git)
 * [Android](#android)
 * [Android Testing](#android testing)
+* [Gradle](#gradle)
+* [Groovy](#groovy)
+* [Lisp](#lisp)
 
 ### Clojure
 
@@ -28,3 +31,11 @@ _1 TILs and counting..._
 
 
 ### Android Testing
+
+
+### Gradle
+
+
+### Groovy
+
+### Lisp
