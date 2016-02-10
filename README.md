@@ -25,6 +25,7 @@ _1 TILs and counting..._
 
 
 ### Git
+- [Amend Author Of Previous Commit](git/git-change-author-push.md)
 
 
 ### Android
