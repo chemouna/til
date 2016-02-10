@@ -22,7 +22,9 @@ _1 TILs and counting..._
 * [Lisp](#lisp)
 
 ### Clojure
-
+- [Clojure cond, condp](clojure/clojure-cond-condp.md)
+- [Clojure case](clojure/case.md)
+- [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md) 
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
