@@ -5,9 +5,9 @@
 
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
-warrant a full blog post. 
+warrant a full blog post.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -22,9 +22,8 @@ _3 TILs and counting..._
 * [Lisp](#lisp)
 
 ### Clojure
-- [Clojure cond, condp](clojure/clojure-cond-condp.md)
 - [Clojure case](clojure/case.md)
-- [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md) 
+- [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
