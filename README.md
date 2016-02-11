@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _6 TILs and counting..._
 * [Groovy](#groovy)
 * [Lisp](#lisp)
 * [Haskell](#haskell)
+* [Emacs](#emacs)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -46,3 +47,6 @@ _6 TILs and counting..._
 
 ### Haskell
 - [Different implementations of FizzBuzz in Haskell](haskell/different-implementations-of-fizzbuzz-in-haskell.md)
+
+### Emacs
+- [Emacs incremental search](emacs/emacs-incremental-search.md)
