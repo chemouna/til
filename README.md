@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _5 TILs and counting..._
 * [Gradle](#gradle)
 * [Groovy](#groovy)
 * [Lisp](#lisp)
+* [Haskell](#haskell)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -42,3 +43,6 @@ _5 TILs and counting..._
 
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
+
+### Haskell
+- [Different implementations of FizzBuzz in Haskell](haskell/different-implementations-of-fizzbuzz-in-haskell.md)
