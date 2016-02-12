@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _10 TILs and counting..._
 * [Lisp](#lisp)
 * [Haskell](#haskell)
 * [Emacs](#emacs)
+* [Groovy](#groovy)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -42,6 +43,8 @@ _10 TILs and counting..._
 - [Gradle Modifiying elements of the project tree](gradle/gradle-modifying-elements-project-tree.md)
 
 ### Groovy
+* [Groovy split a collection](groovy/collection-split.md)
+* [Groovy inject a function](groovy/inject.md)
 
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
