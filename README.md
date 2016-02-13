@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _12 TILs and counting..._
 * [Emacs](#emacs)
 * [Groovy](#groovy)
 * [Scala](#scala)
+* [miniKaren](#miniKaren)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -58,3 +59,6 @@ _12 TILs and counting..._
 
 ### Scala
 - [The Thrush combinator in Scala](scala/thrush-combinator-in-scala.md)
+
+### miniKaren
+- [Start tutorial](miniKaren/start.md)
