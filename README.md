@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _14 TILs and counting..._
 ### Clojure
 - [Clojure case](clojure/case.md)
 - [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md)
+- [Clojure's confusing contains](clojure/confusing-contains.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
