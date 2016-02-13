@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _13 TILs and counting..._
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
+- [Android's DexIndexOverflowException](android/android-dex-overflow-exception.md)
 
 
 ### Android Testing
