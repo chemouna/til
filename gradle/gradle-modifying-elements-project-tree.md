@@ -1,6 +1,4 @@
 
-
-
 # Modifying elements of the project tree
 
 You can alter gradle project properties (all properties in [Project Descriptor](https://docs.gradle.org/current/javadoc/org/gradle/api/initialization/ProjectDescriptor.html) :
