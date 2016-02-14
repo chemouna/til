@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _15 TILs and counting..._
 
 
 ### Android Testing
+- [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
 
 
 ### Gradle
