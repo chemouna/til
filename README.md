@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -49,6 +49,7 @@ _20 TILs and counting..._
 - [Gradle ordered dependency for tasks  ](gradle/ordered-dependency-for-tasks.md)
 - [Gradle Continue Running After Task Failure](gradle/continue-running-after-task-failure.md)
 - [Gradle Dry Run ](gradle/dry-run.md)
+- [Gradle Separate Script By Responsibility](gradle/separate-script-by-responsibility.md)
 
 ### Groovy
 * [Groovy split a collection](groovy/collection-split.md)
