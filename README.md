@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _21 TILs and counting..._
 - [Gradle Continue Running After Task Failure](gradle/continue-running-after-task-failure.md)
 - [Gradle Dry Run ](gradle/dry-run.md)
 - [Gradle Separate Script By Responsibility](gradle/separate-script-by-responsibility.md)
+- [Attaching Debugger for a Task](gradle/attaching-debugger-for-a-task.md)
 
 ### Groovy
 * [Groovy split a collection](groovy/collection-split.md)
