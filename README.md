@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -53,8 +53,9 @@ _22 TILs and counting..._
 - [Attaching Debugger for a Task](gradle/attaching-debugger-for-a-task.md)
 
 ### Groovy
-* [Groovy split a collection](groovy/collection-split.md)
-* [Groovy inject a function](groovy/inject.md)
+* [Split a collection](groovy/collection-split.md)
+* [Inject a function](groovy/inject.md)
+* [Find minimum and maximum in a List](groovy/find-min-max-list.md)
 
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
