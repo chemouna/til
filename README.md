@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -56,17 +56,19 @@ _23 TILs and counting..._
 * [Split a collection](groovy/collection-split.md)
 * [Inject a function](groovy/inject.md)
 * [Find minimum and maximum in a List](groovy/find-min-max-list.md)
+* [Get all properties of an object](groovy/get-properties-of-an-object.md)
 
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
 
 ### Haskell
 - [Different implementations of FizzBuzz in Haskell](haskell/different-implementations-of-fizzbuzz-in-haskell.md)
+- [Transpose a string split on newlines](haskell/transpose-string-split-on-newlines.md)
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
 
-### Scala
+### Scala)
 - [The Thrush combinator in Scala](scala/thrush-combinator-in-scala.md)
 
 ### miniKaren
