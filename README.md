@@ -68,7 +68,7 @@ _24 TILs and counting..._
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
 
-### Scala)
+### Scala
 - [The Thrush combinator in Scala](scala/thrush-combinator-in-scala.md)
 
 ### miniKaren
