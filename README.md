@@ -25,6 +25,7 @@ _24 TILs and counting..._
 * [Groovy](#groovy)
 * [Scala](#scala)
 * [miniKaren](#miniKaren)
+* [Programs Design](#programsDesign)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -73,3 +74,6 @@ _24 TILs and counting..._
 
 ### miniKaren
 - [Start tutorial](miniKaren/start.md)
+
+## Programs Design 
+- [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design)
