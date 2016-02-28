@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _24 TILs and counting..._
 - [Clojure case](clojure/case.md)
 - [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md)
 - [Clojure's confusing contains](clojure/confusing-contains.md)
+- [Auto curry in Clojure like Haskell](clojure/autocurry.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
@@ -77,3 +78,4 @@ _24 TILs and counting..._
 
 ## Programs Design 
 - [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design)
+
