@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_25 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -32,10 +32,11 @@ _25 TILs and counting..._
 - [Clojure Fizzbuzz without conditionals](clojure/fizzbuzz-without-conditionals.md)
 - [Clojure's confusing contains](clojure/confusing-contains.md)
 - [Auto curry in Clojure like Haskell](clojure/autocurry.md)
+- [Apply a list of functions to an argument](clojure/apply-list-functions.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
-
+- [Better and Less Boring git log](git/better-less-boring-git-log.md)
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
@@ -66,6 +67,7 @@ _25 TILs and counting..._
 ### Haskell
 - [Different implementations of FizzBuzz in Haskell](haskell/different-implementations-of-fizzbuzz-in-haskell.md)
 - [Transpose a string split on newlines](haskell/transpose-string-split-on-newlines.md)
+- [Apply a list of functions to an argument](haskell/apply-list-functions.md)
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
