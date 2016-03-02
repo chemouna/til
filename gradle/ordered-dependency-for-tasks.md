@@ -8,7 +8,7 @@
     static void dependsOnOrdered(Task task, Task... others) {
         task.dependsOn(others)
         for (int i = 0; i < others.size() - 1; i++) {
-            others[i + 1].mustRunAfter(task[i])
+            others[i + 1].mustRunAfter(others[i])
         }
     }
   ```
