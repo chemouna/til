@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_27 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -41,7 +41,7 @@ _27 TILs and counting..._
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
 - [Android's DexIndexOverflowException](android/android-dex-overflow-exception.md)
-
+- [Android findViewWithTag](android/find-view-with-tag.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
@@ -61,6 +61,7 @@ _27 TILs and counting..._
 * [Find minimum and maximum in a List](groovy/find-min-max-list.md)
 * [Get all properties of an object](groovy/get-properties-of-an-object.md)
 
+
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
 
@@ -78,6 +79,5 @@ _27 TILs and counting..._
 ### miniKaren
 - [Start tutorial](miniKaren/start.md)
 
-## Programs Design 
+### Programs Design
 - [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design)
-
