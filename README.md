@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
@@ -81,3 +81,4 @@ _29 TILs and counting..._
 
 ### Programs Design
 - [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design)
+- [Pass to functions the most granular data structure](programsDesign/pass-most-granular-data-structure)
