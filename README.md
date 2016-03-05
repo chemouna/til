@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _30 TILs and counting..._
 - [Gradle Dry Run ](gradle/dry-run.md)
 - [Gradle Separate Script By Responsibility](gradle/separate-script-by-responsibility.md)
 - [Attaching Debugger for a Task](gradle/attaching-debugger-for-a-task.md)
+- [Multiple dependencies can be shared under the same name](multiple-deps-under-same-name.md)
 
 ### Groovy
 * [Split a collection](groovy/collection-split.md)
