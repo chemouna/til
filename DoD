@@ -1,5 +1,5 @@
 
-til : chaining in Rx
+- til : chaining in Rx
 Rx chain in a queue :
 one sol for Running one at a time :
 Scheduler scheduler = Schedulers.from(Executors.newSingleThreadExecutor());
@@ -8,3 +8,47 @@ observable.observeOn(scheduler). ...
 another for only running one at a time for one type of requests
 and multiple scheduler for others
 like the case for refresh token in blablacar
+
+- do a til out of this : https://gist.github.com/pakerfeldt/db297764918e7d464884
+
+- using a dummy observable just to notify with onNext another one when it
+  emits an item such as used by square cash for signOut
+  and with dependentOnLoginObservable.taskUntil(signOutObservable)
+  [TODO: blogpost]
+
+- til/blogpost : refresh token problem , solutions :
+   -> do the request anyway and catch errors and in the catch do the request again
+       //but pb with this solution is multiple requests that may arrive later
+        and we will end up refreshing the token multiple times
+        -> well that maybe solved by observeO (or is it subscribeOn ?) scheduler with one thread
+
+   -> creating a custom operator that does exactly what we want (lib?)
+
+   -> or just do the request anyway and when error invalid token do onErrorResumeNext() ?
+   like :
+   getCurrentUser = userApi.getCurrentUser()
+.onErrorResumeNext(refreshTokenAndRetry(userApi.getCurrentUser()))
+.observeOn(AndroidSchedulers.mainThread())
+         .subscribe(...)
+where:
+
+ private <T> Func1<Throwable,? extends Observable<? extends T>> refreshTokenAndRetry(final Observable<T> toBeResumed) {
+     return new Func1<Throwable, Observable<? extends T>>() {
+         @Override
+         public Observable<? extends T> call(Throwable throwable) {
+             // Here check if the error thrown really is a 401
+             if (isHttp401Error(throwable)) {
+                 return refreshToken().flatMap(new Func1<AuthToken, Observable<? extends T>>() {
+                     @Override
+                     public Observable<? extends T> call(AuthToken token) {
+                         return toBeResumed;
+                     }
+                 });
+             }
+             // re-throw this error because it's not recoverable from here
+             return Observable.error(throwable);
+         }
+     };
+ }
+ and additionaly use make use of defer() operator to avoid retrying the request with old observable.
+ onErrorResumeNext(refreshTokenAndRetry(Observable.defer(() -> userApi.getCurrentUser())))
