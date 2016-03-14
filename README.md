@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _31 TILs and counting..._
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
 - [Android's DexIndexOverflowException](android/android-dex-overflow-exception.md)
 - [Android findViewWithTag](android/find-view-with-tag.md)
+- [Android Custom view requires only one constructor](android/custom-view-requires-one-ctor.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
