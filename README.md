@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
@@ -85,3 +85,4 @@ _33 TILs and counting..._
 - [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design.md)
 - [Pass to functions the most granular data structure](programsDesign/pass-most-granular-data-structure)
 - [Refactor linear recursion to iterative recursion](programsDesign/refactor-linear-to-iterative-recursion.md)
+- [Insights from Rich Hickey](programsDesign/insights-from-rich-hickey.md)
