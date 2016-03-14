@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_35 TILs and counting..._
+_37 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _35 TILs and counting..._
 * [Git](#git)
 * [Android](#android)
 * [Android Testing](#android testing)
+* [RxJava](#rxjava)
 * [Gradle](#gradle)
 * [Groovy](#groovy)
 * [Lisp](#lisp)
@@ -47,6 +48,10 @@ _35 TILs and counting..._
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
 - [Using adb to run tests and other options](android_testing/running-tests-command-line.md)
+
+### RxJava
+- [Observable use of .publish and takeUntil on itself](observable-use-of-publish-takeUntil-on-itself.md).
+
 
 ### Gradle
 - [Gradle Modifiying elements of the project tree](gradle/gradle-modifying-elements-project-tree.md)
