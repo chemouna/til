@@ -1,0 +1,10 @@
+
+til : chaining in Rx
+Rx chain in a queue :
+one sol for Running one at a time :
+Scheduler scheduler = Schedulers.from(Executors.newSingleThreadExecutor());
+observable.observeOn(scheduler). ...
+
+another for only running one at a time for one type of requests
+and multiple scheduler for others
+like the case for refresh token in blablacar
