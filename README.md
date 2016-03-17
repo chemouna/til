@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_37 TILs and counting..._
+_38 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _37 TILs and counting..._
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
 - [Better and Less Boring git log](git/better-less-boring-git-log.md)
+- [Create changelog using git log](git/create-changelog-from-gitlog.md)
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
@@ -67,7 +68,6 @@ _37 TILs and counting..._
 * [Inject a function](groovy/inject.md)
 * [Find minimum and maximum in a List](groovy/find-min-max-list.md)
 * [Get all properties of an object](groovy/get-properties-of-an-object.md)
-
 
 ### Lisp
 - [Different implementations of FizzBuzz in Lisp](lisp/different-implementations-of-fizzbuzz-in-lisp.md)
