@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_39 TILs and counting..._
+_43 TILs and counting..._
 
 ---
 
@@ -45,6 +45,7 @@ _39 TILs and counting..._
 - [Android's DexIndexOverflowException](android/android-dex-overflow-exception.md)
 - [Android findViewWithTag](android/find-view-with-tag.md)
 - [Android Custom view requires only one constructor](android/custom-view-requires-one-ctor.md)
+- [RecyclerView Item Decoration](android/rv-item-decoration.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
@@ -63,6 +64,8 @@ _39 TILs and counting..._
 - [Attaching Debugger for a Task](gradle/attaching-debugger-for-a-task.md)
 - [Multiple dependencies can be shared under the same name](gradle/multiple-deps-under-same-name.md)
 - [Gradle task to send an email](gradle/gradle-task-send-mail.md)
+- [Gradle prompt in a task or a set of tasks to enter a password](gradle/prompt-to-enter-passwd.md)
+- [Custom conditional configuration for Gradle project](gradle/configure-if-a-task-is-in-execution.md)
 
 ### Groovy
 * [Split a collection](groovy/collection-split.md)
