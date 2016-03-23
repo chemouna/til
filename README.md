@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_43 TILs and counting..._
+_44 TILs and counting..._
 
 ---
 
@@ -66,6 +66,8 @@ _43 TILs and counting..._
 - [Gradle task to send an email](gradle/gradle-task-send-mail.md)
 - [Gradle prompt in a task or a set of tasks to enter a password](gradle/prompt-to-enter-passwd.md)
 - [Custom conditional configuration for Gradle project](gradle/configure-if-a-task-is-in-execution.md)
+- [Gradle task that waits until some input before proceeding](gradle/task-wait-untill-before-preceeding.md)
+
 
 ### Groovy
 * [Split a collection](groovy/collection-split.md)
