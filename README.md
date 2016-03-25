@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_45 TILs and counting..._
+_46 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _45 TILs and counting..._
 * [Scala](#scala)
 * [miniKaren](#miniKaren)
 * [Programs Design](#programsDesign)
+* [Automation](#automation)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -98,3 +99,6 @@ _45 TILs and counting..._
 - [Refactor linear recursion to iterative recursion](programsDesign/refactor-linear-to-iterative-recursion.md)
 - [Insights from Rich Hickey](programsDesign/insights-from-rich-hickey.md)
 - [Rx Java design insight: Provide orthogonal primitive operators](programsDesign/rxjava-insight-provide-orthogonal-primitive.md)
+
+### Automation
+- [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
