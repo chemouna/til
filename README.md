@@ -68,7 +68,7 @@ _46 TILs and counting..._
 - [Gradle prompt in a task or a set of tasks to enter a password](gradle/prompt-to-enter-passwd.md)
 - [Custom conditional configuration for Gradle project](gradle/configure-if-a-task-is-in-execution.md)
 - [Gradle task that waits until some input before proceeding](gradle/task-wait-untill-before-preceeding.md)
-- [Gradle apply multiple plugins in another main plugin](gralde/apply-multiple-plugins-with-another.md)
+- [Gradle apply multiple plugins in another main plugin](gradle/apply-multiple-plugins-with-another.md)
 
 ### Groovy
 * [Split a collection](groovy/collection-split.md)
