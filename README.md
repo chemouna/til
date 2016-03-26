@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_46 TILs and counting..._
+_47 TILs and counting..._
 
 ---
 
@@ -35,6 +35,8 @@ _46 TILs and counting..._
 - [Clojure's confusing contains](clojure/confusing-contains.md)
 - [Auto curry in Clojure like Haskell](clojure/autocurry.md)
 - [Apply a list of functions to an argument](clojure/apply-list-functions.md)
+- [Clojure sequences distinction](clojure/sequences-distinction.md)
+
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
