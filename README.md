@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_47 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _47 TILs and counting..._
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
 - [Better and Less Boring git log](git/better-less-boring-git-log.md)
 - [Create changelog using git log](git/create-changelog-from-gitlog.md)
+- [Use a file from another branch](git/use-file-from-another-branch.md)
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
