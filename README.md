@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_48 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -36,7 +36,7 @@ _48 TILs and counting..._
 - [Auto curry in Clojure like Haskell](clojure/autocurry.md)
 - [Apply a list of functions to an argument](clojure/apply-list-functions.md)
 - [Clojure sequences distinction](clojure/sequences-distinction.md)
-
+- [Debugging error Parameter declaration shoule be a vector](clojure/debugging-error-param-let-vector.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
