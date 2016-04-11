@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_49 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 
@@ -102,7 +102,7 @@ _49 TILs and counting..._
 - [Refactor linear recursion to iterative recursion](problemSolving/refactor-linear-to-iterative-recursion.md)
 - [Insights from Rich Hickey](problemSolving/insights-from-rich-hickey.md)
 - [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
-- [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md
-)
+- [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md)
+
 ### Automation
 - [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
