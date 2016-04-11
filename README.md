@@ -26,7 +26,7 @@ _49 TILs and counting..._
 * [Groovy](#groovy)
 * [Scala](#scala)
 * [miniKaren](#miniKaren)
-* [Programs Design](#programsDesign)
+* [Problem Solving](#problemSolving)
 * [Automation](#automation)
 
 ### Clojure
@@ -96,12 +96,13 @@ _49 TILs and counting..._
 ### miniKaren
 - [Start tutorial](miniKaren/start.md)
 
-### Programs Design
-- [Type Driven Approach to Functional Design](programsDesign/a-type-driven-approach-to-functional-design.md)
-- [Pass to functions the most granular data structure](programsDesign/pass-most-granular-data-structure)
-- [Refactor linear recursion to iterative recursion](programsDesign/refactor-linear-to-iterative-recursion.md)
-- [Insights from Rich Hickey](programsDesign/insights-from-rich-hickey.md)
-- [Rx Java design insight: Provide orthogonal primitive operators](programsDesign/rxjava-insight-provide-orthogonal-primitive.md)
-
+### Problem Solving
+- [Type Driven Approach to Functional Design](problemSolving/a-type-driven-approach-to-functional-design.md)
+- [Pass to functions the most granular data structure](problemSolving/pass-most-granular-data-structure)
+- [Refactor linear recursion to iterative recursion](problemSolving/refactor-linear-to-iterative-recursion.md)
+- [Insights from Rich Hickey](problemSolving/insights-from-rich-hickey.md)
+- [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
+- [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md
+)
 ### Automation
 - [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
