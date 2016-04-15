@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_50 TILs and counting..._
+_52 TILs and counting..._
 
 ---
 
@@ -96,13 +96,16 @@ _50 TILs and counting..._
 ### miniKaren
 - [Start tutorial](miniKaren/start.md)
 
-### Problem Solving
+### Problem Solving and Program Design
 - [Type Driven Approach to Functional Design](problemSolving/a-type-driven-approach-to-functional-design.md)
 - [Pass to functions the most granular data structure](problemSolving/pass-most-granular-data-structure)
 - [Refactor linear recursion to iterative recursion](problemSolving/refactor-linear-to-iterative-recursion.md)
 - [Insights from Rich Hickey](problemSolving/insights-from-rich-hickey.md)
 - [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
 - [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md)
+
+### Learning
+- [Always understand in clear way each concept](learning/always-understand-each-concept.md)
 
 ### Automation
 - [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
