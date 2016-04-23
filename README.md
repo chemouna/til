@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_52 TILs and counting..._
+_53 TILs and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _52 TILs and counting..._
 - [Android findViewWithTag](android/find-view-with-tag.md)
 - [Android Custom view requires only one constructor](android/custom-view-requires-one-ctor.md)
 - [RecyclerView Item Decoration](android/rv-item-decoration.md)
+- [Compress requests using an OkHttp Interceptor](android/compress-requests-using-okhttp-interceptor.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
@@ -105,7 +106,8 @@ _52 TILs and counting..._
 - [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md)
 
 ### Learning
-- [Always understand in clear way each concept](learning/always-understand-each-concept.md)
+- [Always understand in clear way each concept](learning/a
+lways-understand-each-concept.md)
 
 ### Automation
 - [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
