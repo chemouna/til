@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_53 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _53 TILs and counting..._
 - [Android Custom view requires only one constructor](android/custom-view-requires-one-ctor.md)
 - [RecyclerView Item Decoration](android/rv-item-decoration.md)
 - [Compress requests using an OkHttp Interceptor](android/compress-requests-using-okhttp-interceptor.md)
+- [Configure lint to exclude verification of an issue on some files](configure-lint-exclude-issue-in-file.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
@@ -103,7 +104,8 @@ _53 TILs and counting..._
 - [Refactor linear recursion to iterative recursion](problemSolving/refactor-linear-to-iterative-recursion.md)
 - [Insights from Rich Hickey](problemSolving/insights-from-rich-hickey.md)
 - [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
-- [Always lean the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md)
+- [Always lean the standard library inside out](problemSolving/alw
+ays-learn-std-lib-inside-out.md)
 
 ### Learning
 - [Always understand in clear way each concept](learning/a
