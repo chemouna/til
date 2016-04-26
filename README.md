@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _54 TILs and counting..._
 - [RecyclerView Item Decoration](android/rv-item-decoration.md)
 - [Compress requests using an OkHttp Interceptor](android/compress-requests-using-okhttp-interceptor.md)
 - [Configure lint to exclude verification of an issue on some files](configure-lint-exclude-issue-in-file.md)
+- [Use takeUntil to watch terminal situations](use-take-until-to-watch-terminal-situations.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
