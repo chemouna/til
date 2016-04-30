@@ -108,7 +108,7 @@ _57 TILs and counting..._
 - [Refactor linear recursion to iterative recursion](problemSolving/refactor-linear-to-iterative-recursion.md)
 - [Insights from Rich Hickey](problemSolving/insights-from-rich-hickey.md)
 - [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
-- [Always lean the standard library inside out](problemSolving/alw
+- [Always learn the standard library inside out](problemSolving/alw
 ays-learn-std-lib-inside-out.md)
 
 ### Learning
