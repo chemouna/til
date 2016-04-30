@@ -7,7 +7,8 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_55 TILs and counting..._
+_57 TILs and counting..._
+=======
 
 ---
 
@@ -26,7 +27,7 @@ _55 TILs and counting..._
 * [Groovy](#groovy)
 * [Scala](#scala)
 * [miniKaren](#miniKaren)
-* [Problem Solving](#problemSolving)
+  * [Problem Solving](#problemSolving)
 * [Automation](#automation)
 
 ### Clojure
@@ -92,6 +93,8 @@ _55 TILs and counting..._
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
+- [Spacemacs configuration](emacs/spacemacs-configuration.md)
+- [Enabling square brackets in Spacemacs](emacs/enable-square-brackets-in-spacemacs.md)
 
 ### Scala
 - [The Thrush combinator in Scala](scala/thrush-combinator-in-scala.md)
