@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_57 TILs and counting..._
+_58 TILs and counting..._
 =======
 
 ---
@@ -38,6 +38,7 @@ _57 TILs and counting..._
 - [Apply a list of functions to an argument](clojure/apply-list-functions.md)
 - [Clojure sequences distinction](clojure/sequences-distinction.md)
 - [Debugging error Parameter declaration shoule be a vector](clojure/debugging-error-param-let-vector.md)
+- [Running a single Clojure test using leiningen](clojure/running-single-clojure-test-leiningen.md)
 
 ### Git
 - [Amend Author Of Previous Commit](git/git-change-author-push.md)
