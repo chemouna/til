@@ -27,7 +27,7 @@ _57 TILs and counting..._
 * [Groovy](#groovy)
 * [Scala](#scala)
 * [miniKaren](#miniKaren)
-* [Problem Solving](#problemSolving)
+* [Problem Solving and Program Design](#problemSolvingAndProgramDesign)
 * [Automation](#automation)
 
 ### Clojure
