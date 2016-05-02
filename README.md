@@ -7,8 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_58 TILs and counting..._
-=======
+_59 TILs and counting..._
 
 ---
 
@@ -29,6 +28,7 @@ _58 TILs and counting..._
 * [miniKaren](#miniKaren)
 * [Problem Solving and Program Design](#problemSolvingAndProgramDesign)
 * [Automation](#automation)
+* [Learning](#learning)
 
 ### Clojure
 - [Clojure case](clojure/case.md)
@@ -111,9 +111,9 @@ _58 TILs and counting..._
 - [Rx Java design insight: Provide orthogonal primitive operators](problemSolving/rxjava-insight-provide-orthogonal-primitive.md)
 - [Always learn the standard library inside out](problemSolving/always-learn-std-lib-inside-out.md)
 
-### Learning
-- [Always understand in clear way each concept](learning/a
-lways-understand-each-concept.md)
-
 ### Automation
 - [Deploy apk to hockeyapp](automation/deploy-to-hockeyapp.md)
+
+### Learning
+- [Always understand in clear way each concept](learning/always-understand-each-concept.md)
+- [Learning a new language by studying a project](learning/learning-new-language-by-studying-project.md)
