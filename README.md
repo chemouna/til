@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_60 TILs and counting..._
+_61 TILs and counting..._
 
 ---
 
@@ -92,6 +92,7 @@ _60 TILs and counting..._
 - [Different implementations of FizzBuzz in Haskell](haskell/different-implementations-of-fizzbuzz-in-haskell.md)
 - [Transpose a string split on newlines](haskell/transpose-string-split-on-newlines.md)
 - [Apply a list of functions to an argument](haskell/apply-list-functions.md)
+- [A Technique to grok abstraction in Haskell](haskell/technique-grok-abstraction.md)
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
