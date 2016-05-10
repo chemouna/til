@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_62 TILs and counting..._
+_63 TILs and counting..._
 
 ---
 
@@ -93,6 +93,7 @@ _62 TILs and counting..._
 - [Apply a list of functions to an argument](haskell/apply-list-functions.md)
 - [A Technique to grok abstraction in Haskell](haskell/technique-grok-abstraction.md)
 - [Tips for learning Haskell](haskell/tips-learning-haskell.md)
+- [Pronouncing Haskell Operators](haskell/pronouncing-haskell-operators.md)
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
@@ -119,3 +120,6 @@ _62 TILs and counting..._
 ### Learning
 - [Always understand in clear way each concept](learning/always-understand-each-concept.md)
 - [Learning a new language by studying a project](learning/learning-new-language-by-studying-project.md)
+
+
+
