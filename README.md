@@ -64,7 +64,6 @@ _62 TILs and counting..._
 ### RxJava
 - [Observable use of .publish and takeUntil on itself](observable-use-of-publish-takeUntil-on-itself.md).
 
-
 ### Gradle
 - [Gradle Modifiying elements of the project tree](gradle/gradle-modifying-elements-project-tree.md)
 - [Gradle ordered dependency for tasks  ](gradle/ordered-dependency-for-tasks.md)
