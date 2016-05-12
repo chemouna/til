@@ -5,8 +5,8 @@
 It helps a lot when reading haskell code to know the names of the operators, 
 here's the list i use:
 
+```
 >>=     bind
-
 >>      then
 *>      then
 ->      to                a -> b: a to b
@@ -26,4 +26,5 @@ $                         (none, just as " " [whitespace])
 \       lambda
 @       as                go ll@(l:ls): go ll as l cons ls
 ~       lazy              go ~(a,b): go lazy pair a, b
+```
 
