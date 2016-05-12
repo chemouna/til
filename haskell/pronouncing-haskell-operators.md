@@ -6,6 +6,7 @@ It helps a lot when reading haskell code to know the names of the operators,
 here's the list i use:
 
 >>=     bind
+
 >>      then
 *>      then
 ->      to                a -> b: a to b
