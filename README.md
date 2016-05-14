@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_63 TILs and counting..._
+_65 TILs and counting..._
 
 ---
 
@@ -120,6 +120,6 @@ _63 TILs and counting..._
 ### Learning
 - [Always understand in clear way each concept](learning/always-understand-each-concept.md)
 - [Learning a new language by studying a project](learning/learning-new-language-by-studying-project.md)
-
+- [Reading CS papers](learning/reading-cs-papers.md)
 
 
