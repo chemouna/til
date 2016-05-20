@@ -12,7 +12,6 @@ _65 TILs and counting..._
 ---
 
 ### Categories
-
 * [Clojure](#clojure)
 * [Git](#git)
 * [Android](#android)
@@ -121,5 +120,3 @@ _65 TILs and counting..._
 - [Always understand in clear way each concept](learning/always-understand-each-concept.md)
 - [Learning a new language by studying a project](learning/learning-new-language-by-studying-project.md)
 - [Reading CS papers](learning/reading-cs-papers.md)
-
-
