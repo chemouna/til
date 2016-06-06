@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_69 TILs and counting..._
+_70 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _69 TILs and counting..._
 - [Custom conditional configuration for Gradle project](gradle/configure-if-a-task-is-in-execution.md)
 - [Gradle task that waits until some input before proceeding](gradle/task-wait-untill-before-preceeding.md)
 - [Gradle apply multiple plugins in another main plugin](gradle/apply-multiple-plugins-with-another.md)
+- [Handle error net.rubygrapefruit.platform.NativeException: Could not start x](gradle/handle-error-couldnt-start-x.md)
 
 ### Groovy
 * [Split a collection](groovy/collection-split.md)
