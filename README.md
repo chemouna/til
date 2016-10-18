@@ -95,6 +95,7 @@ _70 TILs and counting..._
 - [Tips for learning Haskell](haskell/tips-learning-haskell.md)
 - [Pronouncing Haskell Operators](haskell/pronouncing-haskell-operators.md)
 - [ghc repl restart to load a new dependency](haskell/ghc-repl-restart-to-load-new-dependency.md)
+- [Refactoring to applicative style](haskell/refactoring-to-applicative.md)
 
 ### Emacs
 - [Emacs incremental search](emacs/emacs-incremental-search.md)
