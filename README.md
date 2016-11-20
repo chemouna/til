@@ -1,4 +1,3 @@
-c
 # TIL
 
 > Today I Learned
