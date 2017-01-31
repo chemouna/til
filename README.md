@@ -9,11 +9,12 @@ warrant a full blog post.
 
 _70 TILs and counting..._
 
----
+--
 
 ### Categories
 * [Clojure](#clojure)
 * [Git](#git)
+* [Java](#java)
 * [Android](#android)
 * [Android Testing](#android testing)
 * [RxJava](#rxjava)
@@ -45,6 +46,9 @@ _70 TILs and counting..._
 - [Better and Less Boring git log](git/better-less-boring-git-log.md)
 - [Create changelog using git log](git/create-changelog-from-gitlog.md)
 - [Use a file from another branch](git/use-file-from-another-branch.md)
+
+### Java 
+- [Item 71: Effective Java](java/item_71_effective_java.md)
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
