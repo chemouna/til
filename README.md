@@ -48,6 +48,8 @@ _70 TILs and counting..._
 
 ### Java 
 - [Item 71: Effective Java](java/item_71_effective_java.md)
+- [Initialization and class not found exceptions](java/initialization_class_not_found_exceptions.md)
+- [Item 17: Design and document for inheritance or else prohibit it](java/design_and_implement_inheritence_or_prohibit.md)
 
 ### Android
 - [Detect when an app ui is hidden](android/detect-app-ui-no-longer-visible.md)
