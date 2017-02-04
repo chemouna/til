@@ -45,6 +45,7 @@ _70 TILs and counting..._
 - [Better and Less Boring git log](git/better-less-boring-git-log.md)
 - [Create changelog using git log](git/create-changelog-from-gitlog.md)
 - [Use a file from another branch](git/use-file-from-another-branch.md)
+- [Pruning stale remote-tracking branches](git/prunning-stale-remote-tracking-branches.md)
 
 ### Java 
 - [Item 71: Effective Java](java/item_71_effective_java.md)
@@ -64,7 +65,7 @@ _70 TILs and counting..._
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
 - [Using adb to run tests and other options](android_testing/running-tests-command-line.md)
-
+- [Unit testing with kotlin in a readable way](android_testing/readable_testing_with_kotlin.md)
 ### RxJava
 - [Observable use of .publish and takeUntil on itself](observable-use-of-publish-takeUntil-on-itself.md).
 
