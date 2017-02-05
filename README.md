@@ -66,8 +66,10 @@ _70 TILs and counting..._
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
 - [Using adb to run tests and other options](android_testing/running-tests-command-line.md)
 - [Unit testing with kotlin in a readable way](android_testing/readable_testing_with_kotlin.md)
+
 ### RxJava
 - [Observable use of .publish and takeUntil on itself](observable-use-of-publish-takeUntil-on-itself.md).
+- [When to use CompositeSubscription/CompositeDispossable unsubscribe or clear?](rxjava/when-use-composite-subs-disp-clear-unsubscribe.md)
 
 ### Gradle
 - [Gradle Modifiying elements of the project tree](gradle/gradle-modifying-elements-project-tree.md)
