@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_79 TILs and counting..._
+_80 TILs and counting..._
 
 --
 
@@ -137,4 +137,5 @@ _79 TILs and counting..._
 - [Reading CS papers](learning/reading-cs-papers.md)
 
 ### Algorithms
-* [My Algorithms design techniques](algorithms/my_algorithms_design_techniques.md)
+- [My Algorithms design techniques](algorithms/my_algorithms_design_techniques.md)
+- [Bit tricks](algorithms/bit_tricks.md)
