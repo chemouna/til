@@ -45,4 +45,8 @@
  Test bit
  (A & 1 << bit) != 0 
  ```
- 
+
+- Examples:
+  To determine if an integer is a power of 2: ```f = v && !(v & (v - 1));```
+  
+
