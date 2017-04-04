@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_80 TILs and counting..._
+_81 TILs and counting..._
 
 --
 
@@ -61,8 +61,9 @@ _80 TILs and counting..._
 - [Android Custom view requires only one constructor](android/custom-view-requires-one-ctor.md)
 - [RecyclerView Item Decoration](android/rv-item-decoration.md)
 - [Compress requests using an OkHttp Interceptor](android/compress-requests-using-okhttp-interceptor.md)
-- [Configure lint to exclude verification of an issue on some files](configure-lint-exclude-issue-in-file.md)
-- [Use takeUntil to watch terminal situations](use-take-until-to-watch-terminal-situations.md)
+- [Configure lint to exclude verification of an issue on some files](android/configure-lint-exclude-issue-in-file.md)
+- [Use takeUntil to watch terminal situations](android/use-take-until-to-watch-terminal-situations.md)
+- [Input type number used for a credit card make an obscure bug](android/input_type_number_used_for_credit_card_makes_an_obscure_bug.md)
 
 ### Android Testing
 - [Android spoon runner and client version mismatch](android_testing/spoon_runner_client_version_mismatch.md)
